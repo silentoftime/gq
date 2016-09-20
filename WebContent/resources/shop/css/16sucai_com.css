@@ -1,0 +1,83 @@
+.rollBox{width:1200px;margin:0 auto;  margin-top:50px; }
+.rollBox.top_c{margin-top:10px; height:106px;}
+.rollBox .Cont{width:1000px;overflow:hidden;margin:0 auto;padding-top:20px;float:left;margin-right:24px;}
+.rollBox .ScrCont{width:10000000px;}
+.rollBox .Cont .pic{width:255px;float:left;text-align:center;position:relative;}
+/**+html .rollBox .Cont .pic{width:230px;float:left;text-align:center;padding-right:20px;}
+*html .rollBox .Cont .pic{width:230px;float:left;text-align:center;padding-right:10px;}*/
+.rollBox .Cont .pic a img{width:232px;height:148px;padding:4px;display:block;margin:0 auto;}
+/*.rollBox .Cont .pic p{line-height:26px;color:#505050;}*/
+.rollBox .Cont a:link,.rollBox .Cont a:visited{color:#626466;text-decoration:none;}
+.rollBox .Cont a:hover{color:#f00;text-decoration:underline;}
+.rollBox #List1,.rollBox #List2,.rollBox #List3,.rollBox #List4,.rollBox #List5,.rollBox #List6{float:left;}
+.rollBox .img1{width:20px;float:left;padding-top:80px;padding-right:10px;margin-left: -40px;}
+.rollBox .img2{width:20px;float:left;padding-top:80px; }
+.img1 img{cursor:pointer;}
+.img2 img{cursor:pointer;}
+.rollBox .img1.img_xx{padding-top:50px;}
+.rollBox .img2.img_xx{padding-top:50px;}
+/**/
+.rollBox .Cont .pic a{
+    
+    width:232px;height:148px;
+    display: block;
+}
+.rollBox .Cont .pic p{
+	width: 230px;
+    height: 37px;
+     background: url(../img/index/index/p_bg.png);
+    position: absolute;
+    left: 4px; 
+    bottom: -1px;
+    z-index: 999;
+}
+.rollBox .Cont .pic span{
+	width: 230px;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    left: 0;
+    bottom: 2px;
+     z-index: 9999;
+     color:#fff;
+}
+.rollBox .Cont .pic label{
+	width: 237px;
+    height: 30px;
+    line-height: 30px;
+    /*position: absolute;*/
+    left: 0;
+    bottom: 3px;
+     z-index: 9999;
+     color:#333;
+     text-align: center;
+     display: block;
+     /*padding-left:10px;*/
+}
+.rollBox .Cont .pic font{
+    width: 232;
+    height: 148px;
+    opacity: 0.4; 
+    position: absolute;
+    left: 5px;
+    bottom: 25px;
+    display: none;
+    cursor: pointer;
+    background: #000;
+}
+.rollBox .Cont .pic font img{
+      width:232px;
+      height:138px;
+}
+.rollBox .Cont .pic label font{
+	float: right;
+	margin-right: 10px;
+}
+.rollBox .Cont .pic label img{
+    border-radius: 3px;
+    margin-bottom: -1px;
+    width:13px;
+    height:13px;
+    margin-right: 3px;
+    margin-left: 5px;
+}

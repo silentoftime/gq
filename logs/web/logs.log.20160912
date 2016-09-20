@@ -1,0 +1,1689 @@
+2016-09-12 16:46:50 199 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:46:50 284 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:46:50 488 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:46:50 541 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:46:50 555 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:46:50 582 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:46:50 600 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:46:50 622 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:46:50 637 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:46:51 212 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:46:51 255 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:46:51 595 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:46:52 524 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:46:52 643 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:46:53 481 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:46:53 514 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:46:53 603 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 16:46:55 198 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:46:55 248 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:46:55 527 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:46:55 565 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 16:46:55 588 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:46:55 611 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:46:55 637 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:46:55 787 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:46:56 328 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 16:46:57 003 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:46:57 070 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:46:57 099 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:02 309 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:02 399 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:02 641 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:02 698 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:02 713 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:02 726 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:02 754 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:02 782 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:02 797 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:02 950 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:03 050 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:03 086 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:52:03 485 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:52:03 778 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:52:05 123 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:52:05 152 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:52:05 296 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 16:52:05 860 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:52:05 920 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:52:06 213 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:52:06 262 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 16:52:06 280 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:06 298 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:06 323 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:52:06 530 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:52:06 699 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 16:52:07 015 INFO  - [JavaScriptEngine] : Caught script exception
+======= EXCEPTION START ========
+Exception class=[java.lang.RuntimeException]
+com.gargoylesoftware.htmlunit.ScriptException: Exception invoking postMessage
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:921)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:852)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:824)
+	at com.gargoylesoftware.htmlunit.InteractivePage.executeJavaScriptFunctionIfPossible(InteractivePage.java:216)
+	at com.gargoylesoftware.htmlunit.javascript.background.JavaScriptFunctionJob.runJavaScript(JavaScriptFunctionJob.java:52)
+	at com.gargoylesoftware.htmlunit.javascript.background.JavaScriptExecutionJob.run(JavaScriptExecutionJob.java:102)
+	at com.gargoylesoftware.htmlunit.javascript.background.JavaScriptJobManagerImpl.runSingleJob(JavaScriptJobManagerImpl.java:426)
+	at com.gargoylesoftware.htmlunit.javascript.background.DefaultJavaScriptExecutor.run(DefaultJavaScriptExecutor.java:157)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: java.lang.RuntimeException: Exception invoking postMessage
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:182)
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:448)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252)
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$4.doRun(JavaScriptEngine.java:845)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:906)
+	... 10 more
+Caused by: java.lang.IllegalStateException: DomNode has not been set for this SimpleScriptable: com.gargoylesoftware.htmlunit.javascript.host.Window
+	at com.gargoylesoftware.htmlunit.javascript.SimpleScriptable.getDomNodeOrDie(SimpleScriptable.java:125)
+	at com.gargoylesoftware.htmlunit.javascript.host.Window.postMessage(Window.java:2113)
+	at sun.reflect.GeneratedMethodAccessor33.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153)
+	... 19 more
+Enclosed exception: 
+java.lang.RuntimeException: Exception invoking postMessage
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:182)
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:448)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252)
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$4.doRun(JavaScriptEngine.java:845)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:906)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:852)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:824)
+	at com.gargoylesoftware.htmlunit.InteractivePage.executeJavaScriptFunctionIfPossible(InteractivePage.java:216)
+	at com.gargoylesoftware.htmlunit.javascript.background.JavaScriptFunctionJob.runJavaScript(JavaScriptFunctionJob.java:52)
+	at com.gargoylesoftware.htmlunit.javascript.background.JavaScriptExecutionJob.run(JavaScriptExecutionJob.java:102)
+	at com.gargoylesoftware.htmlunit.javascript.background.JavaScriptJobManagerImpl.runSingleJob(JavaScriptJobManagerImpl.java:426)
+	at com.gargoylesoftware.htmlunit.javascript.background.DefaultJavaScriptExecutor.run(DefaultJavaScriptExecutor.java:157)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: java.lang.IllegalStateException: DomNode has not been set for this SimpleScriptable: com.gargoylesoftware.htmlunit.javascript.host.Window
+	at com.gargoylesoftware.htmlunit.javascript.SimpleScriptable.getDomNodeOrDie(SimpleScriptable.java:125)
+	at com.gargoylesoftware.htmlunit.javascript.host.Window.postMessage(Window.java:2113)
+	at sun.reflect.GeneratedMethodAccessor33.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153)
+	... 19 more
+== CALLING JAVASCRIPT ==
+  function () {
+      d.Da = 0;
+      try {
+          var f = c.postMessage ? c : c.document;
+          f.postMessage && f.postMessage(e + "|" + a + ":" + b, d.mb);
+      }
+      catch (n) {
+      }
+  }
+======= EXCEPTION END ========
+2016-09-12 16:52:07 367 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:07 393 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:07 424 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:52:07 452 WARN  - [StrictErrorReporter] : warning: message=[Calling eval() with anything other than a primitive string value will simply return the value. Is this what you intended?] sourceName=[http://pagead2.googlesyndication.com/bg/pJ3hXH9e2rBQVNPXp6Bce8BadfSSV8gbPzhgGHlz9kA.js#1(eval)] line=[1] lineSource=[null] lineOffset=[0]
+2016-09-12 16:59:11 858 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:11 941 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:12 136 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:12 215 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:12 231 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:12 247 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:12 268 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:12 292 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:12 312 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:12 439 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:12 523 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:12 564 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:59:12 901 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:59:13 122 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:59:14 227 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:59:14 252 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:59:14 374 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 16:59:14 892 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:59:14 954 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:59:15 319 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:59:15 364 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 16:59:15 380 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:15 397 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:15 528 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:59:16 358 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 16:59:16 469 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:16 508 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:16 540 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 16:59:17 591 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 16:59:17 798 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:01:03 044 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:03 132 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:03 324 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:03 373 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:03 384 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:03 399 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:03 417 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:03 440 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:03 453 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:03 573 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:03 673 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:03 716 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:01:04 070 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:01:04 277 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:01:05 332 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:01:05 360 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:01:05 481 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:01:06 105 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:01:06 172 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:01:06 506 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:01:06 546 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 17:01:06 566 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:06 590 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:06 730 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:01:07 844 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:01:07 848 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:07 890 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:07 926 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:01:09 105 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:01:09 387 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:04:02 913 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:02 995 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:03 204 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:03 259 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:03 279 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:03 296 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:03 318 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:03 342 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:03 358 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:03 483 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:03 572 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:03 611 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:04:03 905 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:04:04 120 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:04:05 148 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:04:05 180 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:04:05 397 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:04:06 042 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:04:06 139 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:04:06 467 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:04:06 509 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 17:04:06 529 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:06 553 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:06 730 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:04:07 513 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:04:17 315 ERROR - [DefaultJavaScriptErrorListener] : Error loading JavaScript from [https://cdn.ampproject.org/v0.js].
+org.apache.http.conn.ConnectTimeoutException: Connect to cdn.ampproject.org:443 [cdn.ampproject.org/216.58.199.1] failed: connect timed out
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:150)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71)
+	at com.gargoylesoftware.htmlunit.HttpWebConnection.getResponse(HttpWebConnection.java:183)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseFromWebConnection(WebClient.java:1358)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponse(WebClient.java:1275)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadJavaScriptFromUrl(HtmlPage.java:1009)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:960)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:966)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:101)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:916)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:852)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:824)
+	at com.gargoylesoftware.htmlunit.InteractivePage.executeJavaScriptFunctionIfPossible(InteractivePage.java:216)
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeEventListeners(EventListenersContainer.java:258)
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeListeners(EventListenersContainer.java:390)
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventTarget.executeEventLocally(EventTarget.java:110)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLIFrameElement.executeEventLocally(HTMLIFrameElement.java:216)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeEventHandlersIfNeeded(HtmlPage.java:1225)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:271)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:519)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:386)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPageIfPossible(BaseFrameElement.java:184)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPage(BaseFrameElement.java:122)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadFrames(HtmlPage.java:1818)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:226)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:519)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.close(HTMLDocument.java:1055)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument$5.execute(HTMLDocument.java:615)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:966)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:101)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:916)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:767)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeJavaScriptIfPossible(HtmlPage.java:904)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeInlineScriptIfNeeded(HtmlScript.java:307)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:368)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772)
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.evaluateInputSource(HTMLScanner.java:615)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.evaluateInputSource(HTMLConfiguration.java:349)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.pushInputString(HTMLParser.java:410)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.writeInParsedStream(HtmlPage.java:2094)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.write(HTMLDocument.java:603)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.writeln(HTMLDocument.java:518)
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153)
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:384)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252)
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:794)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:906)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:975)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772)
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:927)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:506)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:459)
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.parse(HTMLParser.java:979)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parse(HTMLParser.java:241)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parseHtml(HTMLParser.java:187)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:269)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:157)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:512)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:386)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:451)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:436)
+	at net.shopxx.util.GrabUtils.grab(GrabUtils.java:56)
+	at net.shopxx.util.GrabUtils.main(GrabUtils.java:88)
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:337)
+	at com.gargoylesoftware.htmlunit.httpclient.HtmlUnitSSLConnectionSocketFactory.connectSocket(HtmlUnitSSLConnectionSocketFactory.java:189)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141)
+	... 114 more
+2016-09-12 17:04:17 335 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:17 368 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:17 401 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:04:18 336 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:04:28 856 ERROR - [DefaultJavaScriptErrorListener] : Error loading JavaScript from [https://cdn.ampproject.org/v0.js].
+org.apache.http.conn.ConnectTimeoutException: Connect to cdn.ampproject.org:443 [cdn.ampproject.org/216.58.199.1] failed: connect timed out
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:150)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71)
+	at com.gargoylesoftware.htmlunit.HttpWebConnection.getResponse(HttpWebConnection.java:183)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseFromWebConnection(WebClient.java:1358)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponse(WebClient.java:1275)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadJavaScriptFromUrl(HtmlPage.java:1009)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:960)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:966)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:101)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:916)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:767)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeJavaScriptIfPossible(HtmlPage.java:904)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeInlineScriptIfNeeded(HtmlScript.java:307)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:368)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772)
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:927)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:506)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:459)
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.parse(HTMLParser.java:979)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parse(HTMLParser.java:241)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parseHtml(HTMLParser.java:187)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:269)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:157)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:512)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:386)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPageIfPossible(BaseFrameElement.java:184)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPage(BaseFrameElement.java:122)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadFrames(HtmlPage.java:1818)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:226)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:519)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.close(HTMLDocument.java:1055)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument$5.execute(HTMLDocument.java:615)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:966)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:101)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:916)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:975)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:277)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:519)
+	at com.gargoylesoftware.htmlunit.WebClient.loadDownloadedResponses(WebClient.java:2147)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:946)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.processPostponedActions(JavaScriptEngine.java:1033)
+	at com.gargoylesoftware.htmlunit.html.DomElement.click(DomElement.java:806)
+	at com.gargoylesoftware.htmlunit.html.DomElement.click(DomElement.java:749)
+	at com.gargoylesoftware.htmlunit.html.DomElement.click(DomElement.java:696)
+	at net.shopxx.util.GrabUtils.grab(GrabUtils.java:77)
+	at net.shopxx.util.GrabUtils.main(GrabUtils.java:88)
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:337)
+	at com.gargoylesoftware.htmlunit.httpclient.HtmlUnitSSLConnectionSocketFactory.connectSocket(HtmlUnitSSLConnectionSocketFactory.java:189)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141)
+	... 76 more
+2016-09-12 17:08:15 926 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:15 992 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:16 193 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:16 252 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:16 270 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:16 285 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:16 304 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:16 331 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:16 349 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:16 464 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:16 545 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:16 594 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:08:16 901 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:08:17 119 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:08:18 490 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:08:18 578 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:08:18 628 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:08:19 147 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:08:19 220 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:08:30 784 ERROR - [BaseFrameElement] : IOException when getting content for iframe: url=[http://p4-bnwj2shb4ipxq-z3qs5tk6cjxbzs2e-if-v6exp3-v4.metric.gstatic.com/v6exp3/redir.html]
+org.apache.http.conn.ConnectTimeoutException: Connect to p4-bnwj2shb4ipxq-z3qs5tk6cjxbzs2e-if-v6exp3-v4.metric.gstatic.com:80 [p4-bnwj2shb4ipxq-z3qs5tk6cjxbzs2e-if-v6exp3-v4.metric.gstatic.com/216.239.32.57] failed: connect timed out
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:150)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71)
+	at com.gargoylesoftware.htmlunit.HttpWebConnection.getResponse(HttpWebConnection.java:183)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseFromWebConnection(WebClient.java:1358)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponse(WebClient.java:1275)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:382)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPageIfPossible(BaseFrameElement.java:184)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPage(BaseFrameElement.java:122)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadFrames(HtmlPage.java:1818)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:226)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:519)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:386)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPageIfPossible(BaseFrameElement.java:184)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPage(BaseFrameElement.java:122)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadFrames(HtmlPage.java:1818)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:226)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:519)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.close(HTMLDocument.java:1055)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument$5.execute(HTMLDocument.java:615)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:966)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:101)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:916)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:767)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeJavaScriptIfPossible(HtmlPage.java:904)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeInlineScriptIfNeeded(HtmlScript.java:307)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:368)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772)
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.evaluateInputSource(HTMLScanner.java:615)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.evaluateInputSource(HTMLConfiguration.java:349)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.pushInputString(HTMLParser.java:410)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.writeInParsedStream(HtmlPage.java:2094)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.write(HTMLDocument.java:603)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.writeln(HTMLDocument.java:518)
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153)
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:384)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252)
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:794)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:906)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:975)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772)
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:927)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:506)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:459)
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.parse(HTMLParser.java:979)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parse(HTMLParser.java:241)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parseHtml(HTMLParser.java:187)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:269)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:157)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:512)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:386)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:451)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:436)
+	at net.shopxx.util.GrabUtils.grab(GrabUtils.java:56)
+	at net.shopxx.util.GrabUtils.main(GrabUtils.java:88)
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:74)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141)
+	... 102 more
+2016-09-12 17:08:30 841 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:08:30 873 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 17:08:30 890 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:30 918 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:31 518 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:08:31 654 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:08:32 207 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:32 244 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:32 272 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:08:33 210 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:23:25 590 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:25 659 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:25 905 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:25 963 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:25 976 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:25 989 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:26 009 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:26 031 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:26 046 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:26 170 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:26 277 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:26 312 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:23:26 636 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:23:26 857 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:23:27 805 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:23:27 825 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:23:27 940 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:23:28 498 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:23:28 566 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:23:28 904 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:23:28 938 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 17:23:28 954 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:28 972 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:28 991 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:23:29 137 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:23:29 901 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:23:30 017 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:30 056 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:30 088 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:23:31 155 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:23:31 604 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:23:31 693 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:23:31 865 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:25:32 200 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:32 269 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:32 483 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:32 532 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:32 544 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:32 557 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:32 575 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:32 597 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:32 610 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:32 720 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:32 804 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:32 836 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:25:33 135 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:25:33 349 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:25:34 407 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:25:34 430 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:25:34 532 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:25:35 078 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:25:35 138 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:25:35 518 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:25:35 544 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 17:25:35 561 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:35 579 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:35 598 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:25:35 749 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:25:35 956 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:25:36 633 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:36 669 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:36 700 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:36 890 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://c.cnzz.com/core.php?web_id=524192&t=z', but got 'text/html'.
+2016-09-12 17:25:40 271 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:25:40 315 ERROR - [StrictErrorReporter] : runtimeError: message=[An invalid or illegal selector was specified (selector: '*,:x' error: Invalid selector: :x).] sourceName=[http://libs.useso.com/js/jquery/1.11.1/jquery.min.js] line=[2] lineSource=[null] lineOffset=[0]
+2016-09-12 17:25:40 348 INFO  - [JavaScriptEngine] : Caught script exception
+======= EXCEPTION START ========
+Exception class=[net.sourceforge.htmlunit.corejs.javascript.JavaScriptException]
+com.gargoylesoftware.htmlunit.ScriptException: TypeError: Cannot find function hasClassName in object [object Object]. (http://www.zdic.net/js/prototype.js#334)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:921)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:852)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:824)
+	at com.gargoylesoftware.htmlunit.InteractivePage.executeJavaScriptFunctionIfPossible(InteractivePage.java:216)
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeEventListeners(EventListenersContainer.java:258)
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeBubblingListeners(EventListenersContainer.java:322)
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventTarget.fireEvent(EventTarget.java:206)
+	at com.gargoylesoftware.htmlunit.html.DomElement$2.run(DomElement.java:1190)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.html.DomElement.fireEvent(DomElement.java:1195)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeEventHandlersIfNeeded(HtmlPage.java:1198)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:271)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:519)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:386)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:451)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:436)
+	at net.shopxx.util.GrabUtils.grab(GrabUtils.java:56)
+	at net.shopxx.util.GrabUtils.main(GrabUtils.java:103)
+Caused by: net.sourceforge.htmlunit.corejs.javascript.JavaScriptException: TypeError: Cannot find function hasClassName in object [object Object]. (http://www.zdic.net/js/prototype.js#334)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1009)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252)
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$4.doRun(JavaScriptEngine.java:845)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:906)
+	... 21 more
+JavaScriptException value = TypeError: Cannot find function hasClassName in object [object Object].
+== CALLING JAVASCRIPT ==
+  function () {
+      var _items, _options;
+      _items = $A($$(".sec_m span"));
+      _options = $A($$(".tp_c"));
+      $A($$(".sec_m span")).each(function (item) {
+          item.removeClassName("menu_gg");
+          Event.observe(item, "click", $(function () {
+              var _index, _len;
+              for (_index = 0, _len = _items.length; _index < _len; _index++) {
+                  (_items[_index] == item) ? (function () {
+                      _items[_index].addClassName("menu_gg");
+                      Element.setStyle(_options[_index], {display: "block"});
+                      Element.setStyle(_options[_index + 5], {display: "block"});
+                      $("tp").value = "tp" + (_index + 1);
+                      Element.setStyle($("f1"), {display: ((_index == 4) ? "none" : "block")});
+                      Element.setStyle($("cse-search-box"), {display: ((_index == 4) ? "block" : "none")});
+                  })() : (function () {
+                      _items[_index].removeClassName("menu_gg");
+                      Element.setStyle(_options[_index], {display: "none"});
+                      Element.setStyle(_options[_index + 5], {display: "none"});
+                  })();
+              }
+          }), false);
+      });
+      $A($$("form .secpan_qb .query input")).each(function (item) {
+          Event.observe(item, "focus", $(function () {
+              item.select();
+          }), false);
+          Event.observe(item, "mouseover", $(function () {
+              item.focus();
+          }), false);
+      });
+      $A($$("form .btn")).each(function (item) {
+          Event.observe(item, "click", $(function () {
+              item.blur();
+          }), false);
+      });
+      _items[0].addClassName("menu_gg");
+      Element.setStyle(_options[0], {display: "block"});
+      Element.setStyle(_options[5], {display: "block"});
+      $("tp").value = "tp1";
+      Element.setStyle($("f1"), {display: "block"});
+      Element.setStyle($("cse-search-box"), {display: "none"});
+      new ZAC.AutoComplete($$(".q")[0], function () {
+          var tp_temp = $F("tp");
+          var lb = "&lb=";
+          if (tp_temp == "tp2") {
+              lb = "&lb=" + getRadioBoxValue("lb_a");
+          }
+          if (tp_temp == "tp3") {
+              lb = "&lb=" + getRadioBoxValue("lb_b");
+          }
+          if (tp_temp == "tp4") {
+              lb = "&lb=" + getRadioBoxValue("lb_c");
+          }
+          return "/sousuo/ac/?q=" + escape($F($$(".q")[0])) + "&tp=" + $F("tp") + lb;
+      }, {minChars: 1, width: "400px"});
+  }
+======= EXCEPTION END ========
+2016-09-12 17:25:40 719 INFO  - [JavaScriptEngine] : Caught script exception
+======= EXCEPTION START ========
+Exception class=[java.lang.IllegalArgumentException]
+com.gargoylesoftware.htmlunit.ScriptException: Exception invoking Document.evaluate() with arguments [String, NativeObject, null, Integer, null]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:921)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:852)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:824)
+	at com.gargoylesoftware.htmlunit.InteractivePage.executeJavaScriptFunctionIfPossible(InteractivePage.java:216)
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeEventHandler(EventListenersContainer.java:295)
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeBubblingListeners(EventListenersContainer.java:315)
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventTarget.fireEvent(EventTarget.java:191)
+	at com.gargoylesoftware.htmlunit.html.DomElement$2.run(DomElement.java:1190)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.html.DomElement.fireEvent(DomElement.java:1195)
+	at com.gargoylesoftware.htmlunit.html.DomElement.doClickFireClickEvent(DomElement.java:864)
+	at com.gargoylesoftware.htmlunit.html.DomElement.click(DomElement.java:797)
+	at com.gargoylesoftware.htmlunit.html.DomElement.click(DomElement.java:749)
+	at com.gargoylesoftware.htmlunit.html.DomElement.click(DomElement.java:696)
+	at net.shopxx.util.GrabUtils.grab(GrabUtils.java:69)
+	at net.shopxx.util.GrabUtils.main(GrabUtils.java:103)
+Caused by: java.lang.IllegalArgumentException: Exception invoking Document.evaluate() with arguments [String, NativeObject, null, Integer, null]
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:195)
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:448)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105)
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventHandler.call(EventHandler.java:82)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252)
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$4.doRun(JavaScriptEngine.java:845)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:906)
+	... 18 more
+Caused by: java.lang.IllegalArgumentException: argument type mismatch
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153)
+	... 28 more
+Enclosed exception: 
+java.lang.IllegalArgumentException: Exception invoking Document.evaluate() with arguments [String, NativeObject, null, Integer, null]
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:195)
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:448)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105)
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventHandler.call(EventHandler.java:82)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252)
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$4.doRun(JavaScriptEngine.java:845)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:906)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:852)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:824)
+	at com.gargoylesoftware.htmlunit.InteractivePage.executeJavaScriptFunctionIfPossible(InteractivePage.java:216)
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeEventHandler(EventListenersContainer.java:295)
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeBubblingListeners(EventListenersContainer.java:315)
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventTarget.fireEvent(EventTarget.java:191)
+	at com.gargoylesoftware.htmlunit.html.DomElement$2.run(DomElement.java:1190)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.html.DomElement.fireEvent(DomElement.java:1195)
+	at com.gargoylesoftware.htmlunit.html.DomElement.doClickFireClickEvent(DomElement.java:864)
+	at com.gargoylesoftware.htmlunit.html.DomElement.click(DomElement.java:797)
+	at com.gargoylesoftware.htmlunit.html.DomElement.click(DomElement.java:749)
+	at com.gargoylesoftware.htmlunit.html.DomElement.click(DomElement.java:696)
+	at net.shopxx.util.GrabUtils.grab(GrabUtils.java:69)
+	at net.shopxx.util.GrabUtils.main(GrabUtils.java:103)
+Caused by: java.lang.IllegalArgumentException: argument type mismatch
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153)
+	... 28 more
+== CALLING JAVASCRIPT ==
+function () {
+    [native code]
+}
+======= EXCEPTION END ========
+2016-09-12 17:25:41 017 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:25:41 147 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:25:41 348 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:25:41 356 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:31:33 510 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:33 582 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:33 786 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:33 833 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:33 846 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:33 859 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:33 877 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:33 899 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:33 913 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:34 022 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:34 111 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:34 142 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:31:34 439 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:31:34 632 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:31:35 667 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:31:35 688 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:31:35 770 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:31:36 338 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:31:36 394 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:31:36 712 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:31:36 747 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 17:31:36 763 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:36 780 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:36 800 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:31:36 928 WARN  - [StrictErrorReporter] : warning: message=[Calling eval() with anything other than a primitive string value will simply return the value. Is this what you intended?] sourceName=[http://pagead2.googlesyndication.com/bg/pJ3hXH9e2rBQVNPXp6Bce8BadfSSV8gbPzhgGHlz9kA.js#1(eval)] line=[1] lineSource=[null] lineOffset=[0]
+2016-09-12 17:31:36 949 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:31:37 222 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:31:37 922 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:37 954 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:37 988 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:31:39 058 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:31:39 219 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:32:34 321 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:32:34 406 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:32:34 671 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:32:34 734 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:32:34 757 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:32:34 778 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:32:34 799 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:32:34 823 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:32:34 838 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:32:34 948 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:32:35 036 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:32:35 066 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:32:35 739 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:32:35 853 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:32:36 998 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:32:37 017 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:32:37 189 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:33:21 076 ERROR - [BaseFrameElement] : IOException when getting content for iframe: url=[https://googleads.g.doubleclick.net/pagead/html/r20160906/r20160727/zrt_lookup.html]
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:946)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1328)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1355)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1339)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:394)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353)
+	at com.gargoylesoftware.htmlunit.httpclient.HtmlUnitSSLConnectionSocketFactory.connectSocket(HtmlUnitSSLConnectionSocketFactory.java:189)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71)
+	at com.gargoylesoftware.htmlunit.HttpWebConnection.getResponse(HttpWebConnection.java:183)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseFromWebConnection(WebClient.java:1358)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponse(WebClient.java:1275)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:382)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPageIfPossible(BaseFrameElement.java:184)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPage(BaseFrameElement.java:122)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadFrames(HtmlPage.java:1818)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:226)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:519)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.close(HTMLDocument.java:1055)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument$5.execute(HTMLDocument.java:615)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:966)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:101)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:916)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:767)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeJavaScriptIfPossible(HtmlPage.java:904)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeInlineScriptIfNeeded(HtmlScript.java:307)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:368)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772)
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.evaluateInputSource(HTMLScanner.java:615)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.evaluateInputSource(HTMLConfiguration.java:349)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.pushInputString(HTMLParser.java:410)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.writeInParsedStream(HtmlPage.java:2094)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.write(HTMLDocument.java:603)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.writeln(HTMLDocument.java:518)
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153)
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:384)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252)
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:794)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:906)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:975)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772)
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:927)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:506)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:459)
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.parse(HTMLParser.java:979)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parse(HTMLParser.java:241)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parseHtml(HTMLParser.java:187)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:269)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:157)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:512)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:386)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:451)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:436)
+	at net.shopxx.util.GrabUtils.grab(GrabUtils.java:57)
+	at net.shopxx.util.GrabUtils.main(GrabUtils.java:106)
+Caused by: java.io.EOFException: SSL peer shut down incorrectly
+	at sun.security.ssl.InputRecord.read(InputRecord.java:352)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:927)
+	... 102 more
+2016-09-12 17:33:21 504 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:33:21 553 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:33:21 783 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:33:21 828 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 17:33:21 843 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:21 863 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:22 020 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:33:22 576 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:33:22 941 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:22 978 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:23 006 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:40 739 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:40 803 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:41 014 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:41 062 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:41 075 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:41 088 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:41 107 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:41 130 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:41 145 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:41 269 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:41 358 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:41 389 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:33:41 734 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:33:41 934 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:33:42 810 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:33:42 831 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:33:42 949 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:33:43 489 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:33:43 551 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:33:43 835 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:33:43 881 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 17:33:43 898 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:43 916 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:44 046 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:33:44 948 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:33:45 001 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:45 047 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:45 081 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:33:46 281 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:33:46 501 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:33:46 505 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:35:23 378 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:23 438 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:23 654 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:23 701 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:23 713 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:23 725 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:23 747 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:23 769 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:23 783 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:23 893 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:23 978 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:24 011 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:35:24 324 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:35:24 528 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:35:25 391 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:35:25 418 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:35:25 565 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:35:26 112 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:35:26 189 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:35:36 524 ERROR - [BaseFrameElement] : IOException when getting content for iframe: url=[http://p4-dldam5msrrnzg-muztncjffd7xfgj2-if-v6exp3-v4.metric.gstatic.com/v6exp3/redir.html]
+org.apache.http.conn.ConnectTimeoutException: Connect to p4-dldam5msrrnzg-muztncjffd7xfgj2-if-v6exp3-v4.metric.gstatic.com:80 [p4-dldam5msrrnzg-muztncjffd7xfgj2-if-v6exp3-v4.metric.gstatic.com/216.239.32.57] failed: connect timed out
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:150)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71)
+	at com.gargoylesoftware.htmlunit.HttpWebConnection.getResponse(HttpWebConnection.java:183)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseFromWebConnection(WebClient.java:1358)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponse(WebClient.java:1275)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:382)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPageIfPossible(BaseFrameElement.java:184)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPage(BaseFrameElement.java:122)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadFrames(HtmlPage.java:1818)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:226)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:519)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:386)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPageIfPossible(BaseFrameElement.java:184)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPage(BaseFrameElement.java:122)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadFrames(HtmlPage.java:1818)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:226)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:519)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.close(HTMLDocument.java:1055)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument$5.execute(HTMLDocument.java:615)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:966)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:101)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:916)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:767)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeJavaScriptIfPossible(HtmlPage.java:904)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeInlineScriptIfNeeded(HtmlScript.java:307)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:368)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772)
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.evaluateInputSource(HTMLScanner.java:615)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.evaluateInputSource(HTMLConfiguration.java:349)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.pushInputString(HTMLParser.java:410)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.writeInParsedStream(HtmlPage.java:2094)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.write(HTMLDocument.java:603)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.writeln(HTMLDocument.java:518)
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153)
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:384)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252)
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:794)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:906)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:975)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772)
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:927)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:506)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:459)
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.parse(HTMLParser.java:979)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parse(HTMLParser.java:241)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parseHtml(HTMLParser.java:187)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:269)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:157)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:512)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:386)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:451)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:436)
+	at net.shopxx.util.GrabUtils.grab(GrabUtils.java:57)
+	at net.shopxx.util.GrabUtils.main(GrabUtils.java:106)
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:74)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141)
+	... 102 more
+2016-09-12 17:35:36 624 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:35:36 661 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 17:35:36 676 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:36 697 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:36 823 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:35:37 014 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:35:37 340 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:35:37 617 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:37 655 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:37 684 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:35:38 503 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:35:50 423 ERROR - [BaseFrameElement] : IOException when getting content for iframe: url=[http://p4-hdgfwel5vucr2-ixcywalvxnaqi5zq-if-v6exp3-v4.metric.gstatic.com/v6exp3/redir.html]
+org.apache.http.conn.ConnectTimeoutException: Connect to p4-hdgfwel5vucr2-ixcywalvxnaqi5zq-if-v6exp3-v4.metric.gstatic.com:80 [p4-hdgfwel5vucr2-ixcywalvxnaqi5zq-if-v6exp3-v4.metric.gstatic.com/216.239.32.57] failed: connect timed out
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:150)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71)
+	at com.gargoylesoftware.htmlunit.HttpWebConnection.getResponse(HttpWebConnection.java:183)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseFromWebConnection(WebClient.java:1358)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponse(WebClient.java:1275)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:382)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPageIfPossible(BaseFrameElement.java:184)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPage(BaseFrameElement.java:122)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadFrames(HtmlPage.java:1818)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:226)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:519)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.close(HTMLDocument.java:1055)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153)
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:448)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252)
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:794)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:906)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:767)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeJavaScriptIfPossible(HtmlPage.java:904)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeInlineScriptIfNeeded(HtmlScript.java:307)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:368)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772)
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:927)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:506)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:459)
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.parse(HTMLParser.java:979)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parse(HTMLParser.java:241)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parseHtml(HTMLParser.java:187)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:269)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:157)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:512)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:386)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPageIfPossible(BaseFrameElement.java:184)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPage(BaseFrameElement.java:122)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadFrames(HtmlPage.java:1818)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:226)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:519)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.close(HTMLDocument.java:1055)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument$5.execute(HTMLDocument.java:615)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:966)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:101)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:916)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:975)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:277)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:519)
+	at com.gargoylesoftware.htmlunit.WebClient.loadDownloadedResponses(WebClient.java:2147)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:946)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.processPostponedActions(JavaScriptEngine.java:1033)
+	at com.gargoylesoftware.htmlunit.html.DomElement.click(DomElement.java:806)
+	at com.gargoylesoftware.htmlunit.html.DomElement.click(DomElement.java:749)
+	at com.gargoylesoftware.htmlunit.html.DomElement.click(DomElement.java:696)
+	at net.shopxx.util.GrabUtils.grab(GrabUtils.java:94)
+	at net.shopxx.util.GrabUtils.main(GrabUtils.java:106)
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:74)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141)
+	... 92 more
+2016-09-12 17:36:49 270 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:36:49 334 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:36:49 537 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:36:49 576 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:36:49 588 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:36:49 600 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:36:49 618 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:36:49 642 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:36:49 657 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:36:49 769 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:36:49 852 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:36:49 880 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:37:05 719 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:37:05 843 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:37:06 610 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:37:06 626 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:37:06 745 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:37:18 299 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:37:18 346 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:37:18 543 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:37:18 578 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 17:37:18 603 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:37:18 618 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:37:18 754 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:37:19 153 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:37:19 605 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:37:19 640 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:37:19 669 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:37:21 258 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:37:21 919 WARN  - [HTMLDocument] : Ignoring call to open() during the parsing stage.
+2016-09-12 17:37:21 920 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:39:16 921 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:39:17 039 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:39:17 253 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:39:17 325 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:39:17 338 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:39:17 351 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:39:17 369 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:39:17 391 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:39:17 405 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:39:17 516 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:39:17 599 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:39:17 625 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:39:37 357 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:39:37 497 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:39:38 289 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:39:38 306 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:39:38 425 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:40:20 544 ERROR - [BaseFrameElement] : IOException when getting content for iframe: url=[https://googleads.g.doubleclick.net/pagead/html/r20160906/r20160727/zrt_lookup.html]
+org.apache.http.conn.ConnectTimeoutException: Connect to googleads.g.doubleclick.net:443 [googleads.g.doubleclick.net/203.208.43.90, googleads.g.doubleclick.net/203.208.43.77, googleads.g.doubleclick.net/203.208.43.89] failed: Read timed out
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:150)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71)
+	at com.gargoylesoftware.htmlunit.HttpWebConnection.getResponse(HttpWebConnection.java:183)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseFromWebConnection(WebClient.java:1358)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponse(WebClient.java:1275)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:382)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPageIfPossible(BaseFrameElement.java:184)
+	at com.gargoylesoftware.htmlunit.html.BaseFrameElement.loadInnerPage(BaseFrameElement.java:122)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadFrames(HtmlPage.java:1818)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:226)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:519)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.close(HTMLDocument.java:1055)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument$5.execute(HTMLDocument.java:615)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:966)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:101)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:916)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:767)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeJavaScriptIfPossible(HtmlPage.java:904)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeInlineScriptIfNeeded(HtmlScript.java:307)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:368)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772)
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.evaluateInputSource(HTMLScanner.java:615)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.evaluateInputSource(HTMLConfiguration.java:349)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.pushInputString(HTMLParser.java:410)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.writeInParsedStream(HtmlPage.java:2094)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.write(HTMLDocument.java:603)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.writeln(HTMLDocument.java:518)
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153)
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:384)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252)
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:794)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:906)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:975)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772)
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:927)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:506)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:459)
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.parse(HTMLParser.java:979)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parse(HTMLParser.java:241)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parseHtml(HTMLParser.java:187)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:269)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:157)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:512)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:386)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:451)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:436)
+	at net.shopxx.util.GrabUtils.grab(GrabUtils.java:57)
+	at net.shopxx.util.GrabUtils.main(GrabUtils.java:108)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:150)
+	at java.net.SocketInputStream.read(SocketInputStream.java:121)
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:312)
+	at sun.security.ssl.InputRecord.read(InputRecord.java:350)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:927)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1328)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1355)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1339)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:394)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353)
+	at com.gargoylesoftware.htmlunit.httpclient.HtmlUnitSSLConnectionSocketFactory.connectSocket(HtmlUnitSSLConnectionSocketFactory.java:189)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141)
+	... 95 more
+2016-09-12 17:40:20 973 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:40:21 036 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:40:21 262 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:40:21 302 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 17:40:21 318 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:40:21 335 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:40:21 479 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:40:21 868 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:40:22 365 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:40:22 401 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:40:22 430 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:41:39 328 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:41:39 389 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:41:39 591 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:41:39 640 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:41:39 652 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:41:39 665 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:41:39 682 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:41:39 701 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:41:39 714 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:41:39 840 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:41:39 960 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:41:39 991 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:42:04 306 ERROR - [DefaultJavaScriptErrorListener] : Error loading JavaScript from [https://pagead2.googlesyndication.com/pub-config/r20160601/ca-pub-5789084355642416.js].
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:946)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1328)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1355)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1339)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:394)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353)
+	at com.gargoylesoftware.htmlunit.httpclient.HtmlUnitSSLConnectionSocketFactory.connectSocket(HtmlUnitSSLConnectionSocketFactory.java:189)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71)
+	at com.gargoylesoftware.htmlunit.HttpWebConnection.getResponse(HttpWebConnection.java:183)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseFromWebConnection(WebClient.java:1358)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponse(WebClient.java:1275)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadJavaScriptFromUrl(HtmlPage.java:1009)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:960)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:966)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:101)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:916)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:767)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeJavaScriptIfPossible(HtmlPage.java:904)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeInlineScriptIfNeeded(HtmlScript.java:307)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:368)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772)
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.evaluateInputSource(HTMLScanner.java:615)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.evaluateInputSource(HTMLConfiguration.java:349)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.pushInputString(HTMLParser.java:410)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.writeInParsedStream(HtmlPage.java:2094)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.write(HTMLDocument.java:603)
+	at com.gargoylesoftware.htmlunit.javascript.host.html.HTMLDocument.writeln(HTMLDocument.java:518)
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153)
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:384)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252)
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:794)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:906)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:803)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:779)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:975)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772)
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:927)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:506)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:459)
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.parse(HTMLParser.java:979)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parse(HTMLParser.java:241)
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parseHtml(HTMLParser.java:187)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:269)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:157)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:512)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:386)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:304)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:451)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:436)
+	at net.shopxx.util.GrabUtils.grab(GrabUtils.java:57)
+	at net.shopxx.util.GrabUtils.main(GrabUtils.java:110)
+Caused by: java.io.EOFException: SSL peer shut down incorrectly
+	at sun.security.ssl.InputRecord.read(InputRecord.java:352)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:927)
+	... 97 more
+2016-09-12 17:42:04 448 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:42:05 199 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:42:05 214 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:42:05 343 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:42:16 095 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:42:16 137 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:42:16 364 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:42:16 401 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 17:42:16 416 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:42:16 431 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:42:16 573 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:42:16 744 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:42:17 396 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:42:17 438 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:42:17 458 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:50 042 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:50 269 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:50 514 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:50 571 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:50 583 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:50 601 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:50 619 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:50 640 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:50 654 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:50 776 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:50 867 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:50 901 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:51:51 204 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:51:51 408 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:51:52 397 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:51:52 424 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:51:52 508 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:51:53 016 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:51:53 076 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:51:53 379 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:51:53 421 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 17:51:53 441 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:53 458 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:53 478 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:51:53 635 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:51:54 389 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:51:54 578 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:54 612 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:54 646 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:51:59 313 INFO  - [JavaScriptEngine] : Caught script exception
+======= EXCEPTION START ========
+Exception class=[net.sourceforge.htmlunit.corejs.javascript.JavaScriptException]
+com.gargoylesoftware.htmlunit.ScriptException: undefined (http://static.googleadsserving.cn/pagead/js/r20160906/r20110914/abg.js#32)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:921)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:852)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:824)
+	at com.gargoylesoftware.htmlunit.InteractivePage.executeJavaScriptFunctionIfPossible(InteractivePage.java:216)
+	at com.gargoylesoftware.htmlunit.javascript.background.JavaScriptFunctionJob.runJavaScript(JavaScriptFunctionJob.java:52)
+	at com.gargoylesoftware.htmlunit.javascript.background.JavaScriptExecutionJob.run(JavaScriptExecutionJob.java:102)
+	at com.gargoylesoftware.htmlunit.javascript.background.JavaScriptJobManagerImpl.runSingleJob(JavaScriptJobManagerImpl.java:426)
+	at com.gargoylesoftware.htmlunit.javascript.background.DefaultJavaScriptExecutor.run(DefaultJavaScriptExecutor.java:157)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: net.sourceforge.htmlunit.corejs.javascript.JavaScriptException: undefined (http://static.googleadsserving.cn/pagead/js/r20160906/r20110914/abg.js#32)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1009)
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800)
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252)
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$4.doRun(JavaScriptEngine.java:845)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:906)
+	... 10 more
+JavaScriptException value = net.sourceforge.htmlunit.corejs.javascript.Undefined@1d30b6d
+== CALLING JAVASCRIPT ==
+  function () {
+      throw a;
+  }
+======= EXCEPTION END ========
+2016-09-12 17:54:38 520 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:54:38 580 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:54:38 790 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:54:38 847 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:54:38 859 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:54:38 872 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:54:38 888 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:54:38 909 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:54:38 922 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:54:39 036 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:54:39 131 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:54:39 165 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:54:39 448 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:54:39 676 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:54:40 651 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:54:40 662 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:54:40 772 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:54:41 316 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:54:41 370 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:54:41 678 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:54:41 717 WARN  - [IncorrectnessListenerImpl] : Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://www.zdic.net/cout/?SubSys=ZD&spanid=4411', but got 'text/html'.
+2016-09-12 17:54:41 731 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:54:41 749 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:54:41 882 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'text/javascript'.
+2016-09-12 17:54:42 112 WARN  - [HTMLDocument] : close() called when document is not open.
+2016-09-12 17:54:42 785 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:54:42 822 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
+2016-09-12 17:54:42 858 WARN  - [IncorrectnessListenerImpl] : Obsolete content type encountered: 'application/x-javascript'.
